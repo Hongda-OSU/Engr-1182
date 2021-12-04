@@ -9,3 +9,4 @@
   
 * In order to develop the ERS design, multiple phases of design and testing will be performed until the optimal standards for safety, efficiency, and emissions are met. Technical devices such as tilt-sensors will be used to carry out these tests. 
 
+* A link to our dive to see all the awesome pictures: https://drive.google.com/drive/folders/1CedpZL-Vtv98zjRDGTA1_PacwxQPA1O7?usp=sharing
